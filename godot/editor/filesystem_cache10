@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1752851989
+Dungeon_Tileset.png::CompressedTexture2D/CompressedTexture2D::3731488269960152927::1752145085::1752145086::1::::<><><>0<>0<>f9541cd2e36c3ee726ea0f2c7eefbda5<>res://.godot/imported/Dungeon_Tileset.png-5bddb36c069ab266c123a680ead86ce1.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::7163077079464733684::1752144231::1752144252::1::::<><><>0<>0<>e75e21321c1e50325dda8038803ec73c<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+IDLE.png::CompressedTexture2D/CompressedTexture2D::4415267185467792568::1752148538::1752148538::1::::<><><>0<>0<>ffa52e1749bc1ced2e13b9641a23fdb2<>res://.godot/imported/IDLE.png-0b17fd4c8db677e649e8a850d5452a66.ctex::
+pixel-art-stone-gravel-dark-600nw-2508133941.webp::CompressedTexture2D/CompressedTexture2D::8795331857966065774::1752145045::1752145046::1::::<><><>0<>0<>9dab6bfc8c4dcca0a8386c941519c519<>res://.godot/imported/pixel-art-stone-gravel-dark-600nw-2508133941.webp-d342da2afa75f8291e247130e2ac428e.ctex::
+pngtree-highdefinition-wallpaper-green-2d-abstract-wave-background-concept-illustration-backdrop-photo-image_33875060.jpg::CompressedTexture2D/CompressedTexture2D::8848637981766769254::1752144834::1752144835::1::::<><><>0<>0<>6b2b18b35657e52529329bfd8f399653<>res://.godot/imported/pngtree-highdefinition-wallpaper-green-2d-abstract-wave-background-concept-illustration-backdrop-photo-image_33875060.jpg-0f6ef84b6d3777ad68f2626f364501bd.ctex::
+prototype_character.png::CompressedTexture2D/CompressedTexture2D::8400607551886348781::1752160768::1752160769::1::::<><><>0<>0<>d2c481a2e6c1e19fbf468841b0fc33fc<>res://.godot/imported/prototype_character.png-c0f2a4f59f70d726a8aba2d788d49d9a.ctex::
+RUN.png::CompressedTexture2D/CompressedTexture2D::800182267905423029::1752148741::1752148741::1::::<><><>0<>0<>3f3b674ed43bdd0abf22177287a7adee<>res://.godot/imported/RUN.png-dda6aa1b9eaa94eecf4d2212801c28a5.ctex::
+::res://scenes/::1752171797
+main.tscn::PackedScene::986845892459981287::1752171797::0::1::::<><><>0<>0<><>::uid://dxkr3ijkppufm::::res://pixel-art-stone-gravel-dark-600nw-2508133941.webp<>uid://btftcja1yfu6j::::res://Dungeon_Tileset.png<>uid://488ygfvbjh7g::::res://scenes/main_character.tscn<>uid://cg0jm3gsjqi1j::::res://scenes/main_character.gd
+main_character.gd::GDScript/GDScript::5246153236280781933::1752161992::0::1::::<>CharacterBody2D<><>0<>0<><>::
+main_character.tscn::PackedScene::2105647775021888666::1752171797::0::1::::<><><>0<>0<><>::uid://drxk1qthd0cgb::::res://prototype_character.png
